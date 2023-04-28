@@ -21,9 +21,13 @@
     
 ## :chart_with_upwards_trend: Resumo do trabalho da equipe
 
-- A sprint atual iniciou com o processo de correção das questões identificadas na sprint review anterior, além de melhorias em funcionalidades que tiveram bom desempenho na última sprint. Para isso, foi necessário refazer o product backlog, levantando as novas tarefas necessárias para alcançar os objetivos da sprint atual.
+- Nós iniciamos a Sprint com a realização da Sprint Planning, que foi seguida por um dia dedicado à análise de possíveis erros ocorridos durante a Sprint anterior, bem como à lapidação de técnicas previamente utilizadas com sucesso. Adicionalmente, foi realizada uma autoavaliação com o intuito de identificar as principais dificuldades da equipe e promover a correção destas.
 
-- A técnica de planning poker foi utilizada para estimar a dificuldade de cada tarefa e garantir uma estimativa precisa do esforço necessário para cada uma. Com base nisso, definiu-se que qualquer tarefa com uma dificuldade maior ou igual a 8 seria dividida em subtarefas menores para garantir um trabalho mais eficiente e uma entrega mais ágil. A técnica de planning poker foi aplicada novamente para estimar o esforço necessário para as novas subtarefas e garantir uma estimativa precisa do tempo necessário para cada uma. 
+<img src="https://github.com/TerraSoftwarehouse/Documentacao/blob/Sprint1/imagens/respostas-pesquisa.jpg" height = 383 width = 1365 />    
+    
+
+
+- Foi realizada uma revisão do backlog do produto e com base nisso, foi criado um novo backlog para a sprint. Para avaliar a dificuldade de cada tarefa e obter uma estimativa precisa do esforço necessário, foi utilizada a técnica de Planning Poker. Com base nas estimativas obtidas, as tarefas com dificuldade igual ou superior a 8 foram decompostas em subtarefas menores, visando aprimorar a eficiência do trabalho e permitir uma entrega mais ágil. A técnica de Planning Poker foi novamente aplicada para estimar o esforço necessário para cada uma das subtarefas, garantindo uma estimativa precisa do tempo necessário para conclusão de cada uma.
     
     (imagem planning poker aqui).
     
@@ -38,8 +42,12 @@
    
     (imagem do kanban)
     
+- Para obtermos uma visão ampla do projeto e identificar possíveis gargalos, utilizamos a técnica do gráfico de burndown. Essa ferramenta nos permite visualizar o progresso do projeto em relação ao tempo planejado, o que nos ajuda a identificar possíveis atrasos e a tomar medidas preventivas para garantir o cumprimento dos prazos estabelecidos. Além disso, o gráfico de burndown permite que a equipe do projeto acompanhe de perto o desempenho do projeto e faça ajustes quando necessário para garantir a entrega do produto final de acordo com as expectativas do cliente.
     
+ 
+<li><a href="https://onedrive.live.com/edit.aspx?resid=A098266DB33BAECF!114&ithint=file%2cxlsx&authkey=!AHLAn6kIbPIT1Ic"> <strong>Visite nosso grafico de Burndown clicando aqui</Strong><a/></li>   
     
+(imagem do burndown aqui)    
 <span id="entregas">
         
 ## :rocket: Entregas
