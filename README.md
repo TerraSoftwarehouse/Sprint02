@@ -27,9 +27,9 @@
     
 
 
-- Foi realizada uma revisão do backlog do produto e com base nisso, foi criado um novo backlog para a sprint. Para avaliar a dificuldade de cada tarefa e obter uma estimativa precisa do esforço necessário, foi utilizada a técnica de Planning Poker. Com base nas estimativas obtidas, as tarefas com dificuldade igual ou superior a 8 foram decompostas em subtarefas menores, visando aprimorar a eficiência do trabalho e permitir uma entrega mais ágil. A técnica de Planning Poker foi novamente aplicada para estimar o esforço necessário para cada uma das subtarefas, garantindo uma estimativa precisa do tempo necessário para conclusão de cada uma.
+- Foi realizada uma revisão do backlog do produto e com base nisso, foi criado um novo backlog para a sprint. Para avaliar a dificuldade de cada tarefa e obter uma estimativa precisa do esforço necessário, foi utilizada a técnica de Planning Poker. Com base nas estimativas obtidas, as tarefas com dificuldade igual ou superior a 8 foram decompostas em subtarefas menores, visando aprimorar a eficiência do trabalho e permitir uma entrega mais ágil. A técnica de Planning Poker foi novamente aplicada para estimar o esforço necessário para cada uma das subtarefas, garantindo uma estimativa precisa do tempo necessário para conclusão de cada uma, apos isso tivemos de forma refinada o Backlog da Sprint 02 Finalizado.
     
-    (imagem planning poker aqui).
+<img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/sprint%20poker%20-%20Copia.jpg" height = 800  />    
     
 - Demos seguimento ao processo implementando um Kanban para gerenciamento das atividades. Cada cartão do Kanban possui informações claras sobre o que é necessário para começar a atividade, definido como Definition of Ready (DOR), e o que é necessário para considerar a atividade pronta, definido como Definition of Done (DOD). Essas informações são apresentadas de forma clara e objetiva no mesmo cartão, a fim de facilitar a visualização e entendimento do processo.
     
