@@ -60,7 +60,7 @@
 ## Documentação:
 
 <ul>
-<li><a href=""> <strong>Sprint 1</Strong><a/></li>
+<li><a href="https://github.com/TerraSoftwarehouse/Documentacao/blob/Sprint2/README.md"> <strong>Sprint 2</Strong><a/></li>
 </ul>
 
 → [Voltar ao topo](#topo)
