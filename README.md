@@ -31,7 +31,7 @@
     
 <img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/sprint%20poker%20-%20Copia.jpg" height = 800  />    
     
-- Demos seguimento ao processo implementando um Kanban para gerenciamento das atividades. Cada cartão do Kanban possui informações claras sobre o que é necessário para começar a atividade, definido como Definition of Ready (DOR), e o que é necessário para considerar a atividade pronta, definido como Definition of Done (DOD). Essas informações são apresentadas de forma clara e objetiva no mesmo cartão, a fim de facilitar a visualização e entendimento do processo.
+- Demos seguimento ao processo implementando um Kanban para gerenciamento das atividades. Cada cartão do Kanban possui informações claras sobre o que é necessário para começar a atividade, definido como Definition of Ready (DOR), e o que é necessário para considerar a atividade pronta, definido como Definition of Done (DOD). Essas informações são apresentadas de forma clara e objetiva no mesmo cartão, alem de informações uteis para cada colaborador como Story Points, prioridades, area e etc, a fim de facilitar a visualização e entendimento do processo.
     
 <ul>
 <li><a href="https://github.com/users/TerraSoftwarehouse/projects/1/views/1"> <strong>Visite nosso Kanban clicando aqui</Strong><a/></li>
@@ -39,8 +39,8 @@
     
 - No Kanban, foi adotado um sistema de alocação de atividades em que cada colaborador seleciona as tarefas que estão mais alinhadas com suas habilidades e competências. Além disso, em cada card de atividade, o colaborador pode fazer observações e resumos pertinentes, a fim de documentar qualquer informação relevante para a realização da tarefa em questão
     
-   
-    (imagem do kanban)
+ <img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/DOD%20DOR.jpg" height = 600  />     
+
     
 - Para obtermos uma visão ampla do projeto e identificar possíveis gargalos, utilizamos a técnica do gráfico de burndown. Essa ferramenta nos permite visualizar o progresso do projeto em relação ao tempo planejado, o que nos ajuda a identificar possíveis atrasos e a tomar medidas preventivas para garantir o cumprimento dos prazos estabelecidos. Além disso, o gráfico de burndown permite que a equipe do projeto acompanhe de perto o desempenho do projeto e faça ajustes quando necessário para garantir a entrega do produto final de acordo com as expectativas do cliente.
     
@@ -52,6 +52,7 @@
         
 ## :rocket: Entregas
 -
+- http://treinamento.terrasofthouse.com.br/    
 
 → [Voltar ao topo](#topo)    
     
