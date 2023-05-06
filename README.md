@@ -49,9 +49,18 @@
     
 <img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/grafico%20de%20burndown%20neom.jpg" height = 600  />   
     
+- Durante a conclusão da sprint, foi conduzida uma retrospectiva com o objetivo de avaliar o desempenho individual dos colaboradores, a fim de identificar eventuais obstáculos e definir estratégias para superá-los. Cada membro da equipe respondeu à avaliação de auto desempenho, o que possibilitou a obtenção de informações importantes acerca das dificuldades enfrentadas por cada um. Com base nessas informações, foram traçados planos de ação para a eliminação das barreiras e o aprimoramento do desempenho da equipe como um todo.    
+    
+<img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/retrospectiva_1.jpg" height = 350  />      
+
+→ [Voltar ao topo](#topo)
+    
 <span id="entregas">
         
 ## :rocket: Entregas
+
+-A conclusão da sprint resultou na entrega de uma página que atendeu a todos os requisitos não-funcionais estabelecidos na documentação do projeto. Foi empregado um conjunto de tecnologias específicas para atender a esses requisitos, as quais foram implementadas com êxito. Além disso, a página já se encontra hospedada e preparada para receber o conteúdo pertinente, o que significa que o projeto atingiu sua finalidade com sucesso.    
+    
 -<img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/O_que_%C3%A9_o_scrum__-_Google_Chrome_2023-05-06_08-30-06_AdobeExpress%20(1).gif" height = 600  /> 
 - http://treinamento.terrasofthouse.com.br/    
 
@@ -60,9 +69,11 @@
 <span id="documentação">
     
 ## Documentação:
+    
+-Com o intuito de fornecer informações mais detalhadas acerca do projeto, disponibilizamos uma documentação técnica que contém dados minuciosos sobre os aspectos mais relevantes do desenvolvimento. Essa documentação é um recurso valioso para a equipe técnica e outros stakeholders, pois descreve em profundidade a arquitetura, as tecnologias utilizadas, as funcionalidades implementadas e outros detalhes importantes do projeto.    
 
 <ul>
-<li><a href="https://github.com/TerraSoftwarehouse/Documentacao/blob/Sprint2/README.md"> <strong>Sprint 2</Strong><a/></li>
+<li><a href="https://github.com/TerraSoftwarehouse/Documentacao/blob/Sprint2/README.md"> <strong>Documentação da Sprint 2</Strong><a/></li>
 </ul>
 
 → [Voltar ao topo](#topo)
