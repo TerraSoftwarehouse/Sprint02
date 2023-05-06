@@ -47,11 +47,12 @@
  
 <li><a href="https://onedrive.live.com/edit.aspx?resid=A098266DB33BAECF!114&ithint=file%2cxlsx&authkey=!AHLAn6kIbPIT1Ic"> <strong>Visite nosso grafico de Burndown clicando aqui</Strong><a/></li>   
     
-(imagem do burndown aqui)    
+<img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/grafico%20de%20burndown%20neom.jpg" height = 600  />   
+    
 <span id="entregas">
         
 ## :rocket: Entregas
--
+-<img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/O_que_%C3%A9_o_scrum__-_Google_Chrome_2023-05-06_08-30-06_AdobeExpress%20(1).gif" height = 600  /> 
 - http://treinamento.terrasofthouse.com.br/    
 
 → [Voltar ao topo](#topo)    
